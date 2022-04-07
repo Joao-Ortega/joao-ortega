@@ -11,6 +11,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordma
   <img align="center" alt="Joao-CSS" height="35" width="45" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
   <img align="center" alt="Joao-CSS" height="35" width="45" 
+src="https://img.icons8.com/color/344/nodejs.png">
+   <img align="center" alt="Joao-CSS" height="35" width="45" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
 </div>
 </div>
