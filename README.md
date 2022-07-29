@@ -22,6 +22,10 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wor
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
 <img align="center" alt="Joao-CSS" height="40" width="45" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+ <img align="center" alt="Joao-CSS" height="55" width="52"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+ <img align="center" alt="Joao-CSS" height="110" width="90"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg" />
 </div>
 </div>
 
